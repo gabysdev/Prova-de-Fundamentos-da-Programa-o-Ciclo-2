@@ -1,4 +1,4 @@
-# Prova-de-Fundamentos-da-Programa-o-Ciclo-2
+# Hackathon-fundamentos-grupo-4/
 
 Nome dos integrantes:
 Carlos Constantino
