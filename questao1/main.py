@@ -1,4 +1,4 @@
-# questao01
+# questao01 lista de mercado
 
 def calcula_total(lista_compras):
     total = 0
