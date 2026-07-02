@@ -41,6 +41,9 @@ def mostrar_relatorio():
             elif vaga[1] == "pcd":
                 pcd += 1
 
+# ----Continuei o código daqui---
+
+
     print("\n===== ESTACIONAMENTO SHOPPING CENTRAL =====")
     print("Total de vagas:", total)
     print("Vagas ocupadas:", ocupadas)
